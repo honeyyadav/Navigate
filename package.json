@@ -1,0 +1,11 @@
+{
+  "name": "@honeyyadav/navigate",
+  "version": "1.0.0",
+  "description": "A very small library to navigate single page javascript applications.",
+  "main": "Navigate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Honey Yadav",
+  "license": "ISC"
+}
